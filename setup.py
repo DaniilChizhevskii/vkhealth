@@ -9,7 +9,7 @@ def read (filename):
 
 setup(
   name = 'vkhealth',
-  version = '0.5',
+  version = '0.6',
   description = 'Module that shows the current health of the VKontakte platform',
   long_description=read('README.rst'),
   packages=setuptools.find_packages(),

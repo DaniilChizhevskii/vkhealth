@@ -16,8 +16,8 @@ Module that shows the health of VKontakte platform.
 # Usage
 
 * Install package from [pypi.org](https://pypi.org).
-* Import it using `import vkhealth.vkhealth as vkhealth` command.
-* Run `vkhealth.get()` command.
+* Import it using `import vkhealth` command.
+* Run `vkhealth.get()` method.
 
 # Output Format
 

@@ -18,8 +18,8 @@ Usage
 =====
 
 -  Install package from `pypi.org`_.
--  Import it using ``import vkhealth.vkhealth as vkhealth`` command.
--  Run ``vkhealth.get()`` command.
+-  Import it using ``import vkhealth`` command.
+-  Run ``vkhealth.get()`` method.
 
 Output Format
 =============
